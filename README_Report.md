@@ -71,3 +71,8 @@
 
 
 ![Debotanizer Tower Flowsheet](Solar14.PNG)
+
+
+**Meshing:**
+
+![Debotanizer Tower Flowsheet](Solar10.PNG)
