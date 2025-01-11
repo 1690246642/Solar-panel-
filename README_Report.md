@@ -51,3 +51,13 @@
 
 
         ![Debotanizer Tower Flowsheet](Solar8.PNG)
+
+
+
+   - Sventh:
+
+        At this stage, the foundations of the page have been built and the page geometry is fully prepared.
+
+
+        ![Debotanizer Tower Flowsheet](Solar9.PNG)
+     
