@@ -42,4 +42,12 @@
         To create the bases of the corresponding plate, we place two cylindrical rods for it:
 
        ![Debotanizer Tower Flowsheet](Solar7.PNG)
-     
+
+
+
+    - Sixth:
+
+        At this stage, in order to respect the multi-layer nature of the pages, we have placed several layers for them to make their material appropriate to the application:
+
+
+        ![Debotanizer Tower Flowsheet](Solar8.PNG)
