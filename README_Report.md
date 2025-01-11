@@ -45,7 +45,7 @@
 
 
 
-    - Sixth:
+   - Sixth:
 
         At this stage, in order to respect the multi-layer nature of the pages, we have placed several layers for them to make their material appropriate to the application:
 
