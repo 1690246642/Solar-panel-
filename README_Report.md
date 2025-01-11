@@ -83,3 +83,7 @@
 **As you can see, the temperature distribution of the heat flux applied to the surface is plotted:**
 
 ![Debotanizer Tower Flowsheet](Solar12.PNG)
+
+
+**Conclusion:**
+**In this project, we covered activities such as creating geometry and applying specific physics to a structure, which is very practical work in the industry.**
