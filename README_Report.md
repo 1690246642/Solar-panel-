@@ -10,7 +10,7 @@
        ![Debotanizer Tower Flowsheet](Solar2.PNG)
 
 
-    - Second:
+  - Second:
    
          In this step, small squares are used to create protrusions on the main surface. To do this, we will create a square on a rectangular surface and expand it in the x and y directions using Array.
 
