@@ -4,5 +4,7 @@
 **Steps**
 
   - first:
-   
+  - 
+      In this step, we design the main flat rectangle of the structure. This rectangle is 0.1*5*4 and is deflected at an angle of 40 degrees. You can see its general shape below:
+
        ![Debotanizer Tower Flowsheet](Solar2.PNG)
