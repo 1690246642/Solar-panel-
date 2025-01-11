@@ -79,3 +79,5 @@
 
 
 **Now that the construction and meshing are complete, let's start applying physics. In this operation, for convenience and short calculations, we use the module for heat transfer with constant flux in solids. So that we first assume that the entire plate is at ambient temperature and a constant flux enters it in the direction perpendicular to the plates. We assume the conditions are stable to solve the problem.**
+
+![Debotanizer Tower Flowsheet](Solar12.PNG)
