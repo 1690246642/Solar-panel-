@@ -5,4 +5,4 @@
 
   - first:
    
-       ![Debotanizer Tower Flowsheet](Solar.PNG)
+       ![Debotanizer Tower Flowsheet](Solar2.PNG)
