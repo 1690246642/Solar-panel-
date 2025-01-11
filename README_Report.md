@@ -34,3 +34,12 @@
          At this stage, we will define a plane work, which is a rectangular surface.Now that the panel is defined, we can place the squares we expanded on the panel:
     
        ![Debotanizer Tower Flowsheet](Solar6.PNG)
+
+
+
+   - Fifth:
+
+        To create the bases of the corresponding plate, we place two cylindrical rods for it:
+
+       ![Debotanizer Tower Flowsheet](Solar7.PNG)
+     
