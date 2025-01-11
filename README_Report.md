@@ -68,4 +68,6 @@
 
 **In this structure, we need the main rectangular surface and its layers for both meshing and physics applications. List of materials used in the solar panel:**
 
+
+
         ![Debotanizer Tower Flowsheet](Solar14.PNG)
