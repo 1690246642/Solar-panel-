@@ -64,3 +64,6 @@
 
 
         Now that the general shape has been created, we need to consider some things in the project, including the type of material used, which, as mentioned, has a great impact on the heat transfer and physics we have applied. Now, after these steps, we move on to the meshing of the structure, where we select those parts so that the meshing action is defined only in specific parts.
+
+
+**In this structure, we need the main rectangular surface and its layers for both meshing and physics applications. List of materials used in the solar panel:**
